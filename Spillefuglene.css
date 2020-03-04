@@ -1,0 +1,44 @@
+h1 {
+  font-family: Montserrat;
+  Color: white;
+  background-color: red;
+  text-align: Center;
+
+}
+
+body {
+  font-family: Montserrat;
+  color: rgb(240,240,240);
+  background-color: rgb(30, 30, 30);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  height: 40px;
+  padding-right: 8px;
+  padding-left: 8px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 40px;
+  background-color: rgb(220,220,220);
+  text-decoration: none;
+}
+
+th, td {
+  padding-right: 15px;
+  text-align: left;
+}
+table, th, td {
+  border: 1px solid black;
+   border-collapse: collapse;
+}
